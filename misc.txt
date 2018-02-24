@@ -1,0 +1,20 @@
+# Under Construction
+
+cat conn.log | bro-cut orig_l2_addr service orig_ip_bytes \
+    | awk '{ a[$1" "$2] += $3 } \
+     END { for(i in a) print i, a[i] }' | sort -nrk3
+
+cat conn.log | bro-cut orig_l2_addr proto orig_ip_bytes \
+    | awk '{ a[$1" "$2] += $3 } \
+     END { for(i in a) print i, a[i] }' | head
+
+cat conn.log | bro-cut orig_l2_addr resp_l2_addr orig_ip_bytes | grep -i '3c:46:d8:bc:9b:f4' | sed 's/3c:46:d8:bc:9b:f4//g' \
+    | awk '{ a[$1] += $2 } \
+     END { for(i in a) print i, a[i] }' | sort -nrk2 > orig-resp-bytes-extern.csv
+
+cat conn.log | bro-cut orig_l2_addr resp_l2_addr orig_ip_bytes | grep -iv '3c:46:d8:bc:9b:f4' | sed 's/3c:46:d8:bc:9b:f4//g' \
+    | awk '{ a[$1] += $2 } \
+     END { for(i in a) print i, a[i] }' | sort -nrk2 > orig-resp-bytes-intern.csv
+
+for f in *; do; cd $f; echo $f; bro-cut query < dns.log | sort | uniq -c | sort -nr | head >> ../dns-heads.txt; cd ..; done
+for f in *; do; cd $f; echo $f >> ../dns-heads.txt; bro-cut query < dns.log | sort | uniq -c | sort -nr | head >> ../dns-heads.txt; cd ..; done

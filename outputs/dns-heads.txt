@@ -1,0 +1,158 @@
+00:17:88:29:55:4d
+ 787552 www.ecdinterface.philips.com
+   8564 philips hue - 29554d._hap._tcp.local
+    194 diagnostics.meethue.com
+     60 databox-hue.local
+08:02:8e:97:da:3d
+18:65:90:43:0c:58
+    992 _sleep-proxy._udp.local
+    160 outlook.ha.office365.com
+    148 outlook.office365.com
+     76 outlook.office365.com.g.office365.com
+     58 e6858.dsce9.akamaiedge.net
+     52 www.apple.com
+     52 _homekit._tcp.local
+     52 59a47529-d81b-5bde-901f-f134349a0f5f._homekit._tcp.local
+     48 time-ios.apple.com
+     44 www-cdn.icloud.com.akadns.net
+3c:46:d8:bc:9b:f4
+ 787552 www.ecdinterface.philips.com
+ 109396 api.foobot.io
+ 103644 unifi
+  69192 www.example.com
+  69120 www.example.net
+  69086 www.example.org
+   8098 netcom.netatmo.net
+   5972 time-ios.apple.com
+   4394 device-metrics-us.amazon.com
+   4212 fw-update2.smartthings.com
+44:65:0d:b4:b2:f5
+  69192 www.example.com
+  69120 www.example.net
+  69086 www.example.org
+   4392 device-metrics-us.amazon.com
+   1210 dcape-na.amazon.com
+    538 pindorama-eu.amazon.com
+    490 www.meethue.com
+     46 softwareupdates.amazon.com
+     30 _services._dns-sd._udp.local
+     20 dp-64650772._sftp-ssh._tcp.local
+48:74:6e:6a:fb:47
+   4216 time-ios.apple.com
+   3618 safebrowsing.googleapis.com
+   3452 philips hue - 29554d._hap._tcp.local
+   1352 gateway.fe.apple-dns.net
+   1250 59a47529-d81b-5bde-901f-f134349a0f5f._homekit._tcp.local
+   1240 time-ios.g.aaplimg.com
+   1216 _sleep-proxy._udp.local
+    652 e3100.g.akamaiedge.net
+    632 gsp64-ssl.ls.apple.com
+    616 _hap._tcp.local
+50:c7:bf:0b:08:2e
+   1082 uk.pool.ntp.org
+     46 devs.tplinkcloud.com
+     18 fr.pool.ntp.org
+     16 0.cn.pool.ntp.org
+     12 s1b.time.edu.cn
+      6 s1a.time.edu.cn
+      6 ca.pool.ntp.org
+      4 de.pool.ntp.org
+      4 2.asia.pool.ntp.org
+      2 1.asia.pool.ntp.org
+50:c7:bf:0b:0a:71
+   1098 uk.pool.ntp.org
+      6 fr.pool.ntp.org
+      2 devs.tplinkcloud.com
+6c:19:c0:81:a9:cb
+     60 _sleep-proxy._udp.local
+     18 p65-keyvalueservice.fe.apple-dns.net
+     14 events-endpoint-d-1130254936.us-east-1.elb.amazonaws.com
+     12 outlook.office365.com
+     10 gmail-imap.l.google.com
+      6 www.icloud.com
+      6 www.apple.com
+      6 outlook.ha.office365.com
+      6 imap.gmail.com
+      6 gs-loc.apple.com
+70:ee:50:12:84:aa
+   8098 netcom.netatmo.net
+78:4f:43:6e:f4:b1
+    138 _sleep-proxy._udp.local
+    132 jamess-macbook-pro.local
+     50 \x01\x02__MSBROWSE__\x02
+     44 client-cf.dropbox.com
+     40 www.privateinternetaccess.com
+     40 play.google.com
+     36 bolt.dropbox.com
+     32 d0034b507544@databox._raop._tcp.local
+     28 d.dropbox.com
+     26 lb._dns-sd._udp.0.1.168.192.in-addr.arpa
+78:7e:61:90:e4:c0
+     18 p65-keyvalueservice.icloud.com
+     14 time-ios.g.aaplimg.com
+     12 www.apple.com
+     12 time-ios.apple.com
+     12 e3.whatsapp.net
+     10 www.icloud.com
+     10 www.google.com
+     10 guzzoni.apple.com
+     10 gsp64-ssl.ls.apple.com
+     10 e10.whatsapp.net
+84:89:ad:3e:33:66
+    956 _sleep-proxy._udp.local
+    780 jamess-ipad.local
+    642 philips hue - 29554d._hap._tcp.local
+    122 8ed7533b-9612-51e0-9456-cb41062ecc37._homekit._tcp.local
+    108 59a47529-d81b-5bde-901f-f134349a0f5f._homekit._tcp.local
+     82 _homekit._tcp.local
+     42 dd2c96fa-4f72-53f2-a47b-a2fdf309aa7e._homekit._tcp.local
+     34 prod14-api.acompli.net
+     22 prd.col.aria.mobile.skypedata.akadns.net
+     20 inbox.google.com
+88:30:8a:77:5f:cc
+    258 clients3.google.com
+     88 mtalk4.google.com
+     64 mobile.pipe.aria.microsoft.com
+     46 mail.google.com
+     30 android.clients.google.com
+     28 edge.skype.com
+     26 api.cc.skype.com
+     24 b.config.skype.com
+     24 android.googleapis.com
+     22 play.googleapis.com
+88:4a:ea:dd:b4:7c
+     34 nucleo.neatocloud.com
+     22 pool.ntp.org
+b0:70:2d:e4:1e:82
+  13694 _sleep-proxy._udp.local
+   5916 philips hue - 29554d._hap._tcp.local
+   3234 59a47529-d81b-5bde-901f-f134349a0f5f._homekit._tcp.local
+   1516 8ed7533b-9612-51e0-9456-cb41062ecc37._homekit._tcp.local
+    402 www.apple.com
+    350 www-cdn.icloud.com.akadns.net
+    268 prod14-api.acompli.net
+    228 gateway.fe.apple-dns.net
+    184 prd.col.aria.mobile.skypedata.akadns.net
+    150 cl3-cdn.origin-apple.com.akadns.net
+d0:03:4b:50:75:44
+  10826 59a47529-d81b-5bde-901f-f134349a0f5f._homekit._tcp.local
+   4972 _sleep-proxy._udp.local
+   1618 time-ios.g.aaplimg.com
+   1576 time-ios.apple.com
+   1180 philips hue - 29554d._hap._tcp.local
+   1154 itunes.apple.com
+   1052 _touch-remote._tcp.local
+    698 databox._device-info._tcp.local
+    694 init.itunes.apple.com
+    680 _hap._tcp.local
+d0:52:a8:45:41:f6
+   4212 fw-update2.smartthings.com
+     14 dc-eu01-euwest1.connect.smartthings.com
+f0:9f:c2:30:7f:59
+ 103644 unifi
+   1094 google.com
+f0:fe:6b:28:ca:e2
+ 109388 api.foobot.io
+    122 broker-gw-eu.foobot.io
+      2 firmware.foobot.io.s3.amazonaws.com
+f8:f0:05:f7:70:21
